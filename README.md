@@ -54,7 +54,6 @@ A modern property booking site built with React, TypeScript, and Tailwind CSS.
 - Host dashboard
 
 ## Credits
-## Credits
 - Project developed by Ankit Dubey
 - Images from Unsplash
 - Design inspired by modern booking platforms
